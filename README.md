@@ -22,25 +22,28 @@ Aplikasi ini menerapkan aspek **Vibe Coding** penuh dengan menghadirkan antarmuk
 Tampilan Beranda premium dengan banner promo horizontal yang dapat digeser (*carousel*) serta tombol sakelar tema di pojok kanan atas.
 | 🌑 Tema Gelap (Premium Dark) | ☀️ Tema Terang (Clean Light) |
 |---|---|
-| ![Beranda Dark](home_dark.png) | ![Beranda Light](home_light.png) |
+| <img width="309" height="688" alt="home_dark" src="https://github.com/user-attachments/assets/232fdab6-fe79-444a-9677-5ae53da5c333" />|<img width="306" height="680" alt="home_light" src="https://github.com/user-attachments/assets/e773164b-bc42-416c-bc61-352e7fa6dc17" /> |
 
 ### 🔍 2. Eksplorasi Menu & Live Search
 Daftar menu padat dengan pil kategori, info harga yang kontras, penanda taksonomi khusus (*Best Seller / Rekomendasi*), dan *Search Bar* interaktif.
 | 📖 Tampilan Daftar Menu Hidangan |
 |---|
-| ![Menu Screen](menu_screen.png) |
+|<img width="313" height="690" alt="menu_screen" src="https://github.com/user-attachments/assets/bc3fe4ef-b4ba-44b8-af71-8e73f1e8640f" />
+|
 
 ### ⭐️ 3. Detail Hidangan & Fitur Share Intent
 Halaman detail makanan yang menunjukkan deskripsi lengkap, rating bintang interaktif, tombol keranjang, serta sistem integrasi *Share Text* bawaan handphone Android.
 | 🍕 Detail Menu & Sistem Rating | 📡 Pemanggilan Dialog Share Android |
 |---|---|
-| ![Detail Screen](detail_screen.png) | ![Share Intent](share_feature.png) |
+|<img width="307" height="689" alt="detail_screen" src="https://github.com/user-attachments/assets/f6b62325-372d-47c5-aa7b-bea5ac13ce31" />|<img width="308" height="677" alt="share_feature" src="https://github.com/user-attachments/assets/ec74a413-b619-4a6c-b62a-ebab82f10f37" />
+|
 
 ### 👤 4. Profil Restoran (SharedPreferences Local Storage)
 Informasi esensial mengenai nama resmi, alamat lokasi, jam operasional, dan bio restoran yang dibaca langsung secara dinamis dari memori lokal.
 | 🪪 Kartu Informasi Profil Resto |
 |---|
-| ![Profile Screen](profile_screen.png) |
+|<img width="311" height="686" alt="profile_screen" src="https://github.com/user-attachments/assets/65bd5f11-8712-4f1f-a1a1-9d7afe205fb0" />
+|
 
 ---
 *Aplikasi ini dibangun menggunakan Jetpack Compose murni, Material Design 3, dan SharedPreferences tanpa pustaka pihak ketiga tambahan.*
