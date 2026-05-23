@@ -19,7 +19,7 @@ Aplikasi ini menerapkan aspek **Vibe Coding** penuh dengan menghadirkan antarmuk
 ## 📸 Dokumentasi & Screenshot Aplikasi
 
 ### 👤StartUP Awal Loding Screen
-Halaman Start awal Loding sScreen waktu Aplikasi di buka.
+Halaman Start awal Loding Screen waktu Aplikasi di buka.
 | 🪪 Tampilan Loding  aplikasi |
 |---|
 |<img width="325" height="710" alt="resto" src="https://github.com/user-attachments/assets/89e01157-82ad-4a90-9659-4996a380e006" />
